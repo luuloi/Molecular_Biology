@@ -11,7 +11,7 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 - [BOOK4](Book/Molecular_Biology_of_the_cell_6ed_4.pdf)
   
 ## [**01. Cell [Thảo, Kim] - 25/01/2026; Room 102 H2**](Lecture_01/)
-- [PDF](Lecture_01/)
+- [LINK](https://docs.google.com/presentation/d/1cgWea7gsHz80Ii3W1cQSMWsKUthLXalgeshXFXjLwm4/edit?usp=sharing)
 - [Quizzes](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu)
 - [Lab Exercises](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0?usp=sharing)
   
