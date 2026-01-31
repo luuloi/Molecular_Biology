@@ -1,7 +1,7 @@
 # Molecular Biology
 Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại Học Đồng Tháp
 - Giảng viên: TS. Lưu Phúc Lợi
-- Trợ giảng: ThS. Cao Phương Thảo và CN. Văn Hồ Hoàng Kim
+- Trợ giảng: ThS. Cao Phương Thảo và KS. Văn Hồ Hoàng Kim
 
 ## [**00. Introduction to Molecular Biology [Loi] - 25/01/2026; Room 102 H2**](Lecture_00/)
 - [PDF](Lecture_00/Lecture_overview_2026Jan25.pdf)
