@@ -12,6 +12,7 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
   
 ## [**01. Cell [Thảo, Kim] - 25/01/2026; Room 102 H2**](Lecture_01/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_00/Introduction%20to%20Cell.pdf)
-- [Quizzes](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu)
+- [Quizzes1](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_00/Quizz%201_%20Part%200_%20Prokaryotic%20vs.%20Eukaryotic%20Cells.pdf)
+- [Quizzes2](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_00/Quizz%202_%20Part%200_%20Prokaryotic%20vs.%20Eukaryotic%20Cells.pdf)
 - [Lab Exercises](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0?usp=sharing)
   
