@@ -16,12 +16,14 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 - [Quizzes2](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_00/Quizz%202_%20Part%200_%20Prokaryotic%20vs.%20Eukaryotic%20Cells.pdf)
 - [Lab Exercises](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0?usp=sharing)
   
-## [**02. PARTI_DNA_polymerase_part1 [Loi] - 27/01/2026; Online**](Lecture_02/)
+## [**02. PART_I_DNA_polymerase_part1 [Loi] - 27/01/2026; Online**](Lecture_02/)
 - [PDF]()
 - [Quizzes3](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_02/Quizz%2003.%20DNA%20polymerase.pdf)
   
-## [**03. PARTI_DNA_polymerase_part2 [Loi] - 31/01/2026; Room 202 H2**](Lecture_03/)
+## [**03. PART_I_DNA_polymerase_part2 [Loi] - 31/01/2026; Room 202 H2**](Lecture_03/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_03/DNA%20POLYMERASE%20PART%202.pdf)
 
-## [**04. PARTI_DNA_polymerase_part2 [Loi] - 01/02/2026; Room 202 H2**](Lecture_04/)
+## [**04.1 PART_I_DNA_polymerase_part2 [Loi] - 01/02/2026; Room 202 H2**](Lecture_04/)
+- [PDF]()
+## [**04.2 PCR & Gel electrophoresis [Kim] - 01/02/2026; Room 202 H2**](Lecture_04/)
 - [PDF]()
