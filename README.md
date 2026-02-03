@@ -24,6 +24,6 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_03/DNA%20POLYMERASE%20PART%202.pdf)
 
 ## [**04.1 PART_I_DNA_polymerase_part2 [Loi] - 01/02/2026; Room 202 H2**](Lecture_04/)
-- [PDF]()
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/DNA%20Replication%20Machinery.pdf)
 ## [**04.2 PCR & Gel electrophoresis [Kim] - 01/02/2026; Room 202 H2**](Lecture_04/)
-- [PDF]()
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/Polymerase%20Chain%20Reaction%20(PCR).pdf)
