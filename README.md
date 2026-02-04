@@ -29,3 +29,7 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 ## [**04.2 PCR & Gel electrophoresis [Kim] - 01/02/2026; Room 202 H2**](Lecture_04/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/Polymerase%20Chain%20Reaction%20(PCR).pdf)
 - [Quizzes5](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/Quizz%205_DNA_replication%20machinery.pdf)
+
+## [**05. PART_I_DNA_replication [Loi] - 03/02/2026; Online**](Lecture_05/)
+- [PDF]()
+- [PPTX]()
