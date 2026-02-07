@@ -15,24 +15,33 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 - [Quizzes1](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_00/Quizz%201_%20Part%200_%20Prokaryotic%20vs.%20Eukaryotic%20Cells.pdf)
 - [Quizzes2](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_00/Quizz%202_%20Part%200_%20Prokaryotic%20vs.%20Eukaryotic%20Cells.pdf)
 - [Lab Exercises](https://colab.research.google.com/drive/1EYINBYaEr2NAnxsq7jIWk_Bl5xmsYK_0?usp=sharing)
-  
-## [**02. PART_I_DNA_polymerase_part1 [Loi] - 27/01/2026; Online**](Lecture_02/)
+#
+# Part I: DNA Replication
+## [**02. DNA Polymerase part1 [Loi] - 27/01/2026; Online**](Lecture_02/)
 - [PDF]()
 - [Quizzes3](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_02/Quizz%2003.%20DNA%20polymerase.pdf)
   
-## [**03. PART_I_DNA_polymerase_part2 [Loi] - 31/01/2026; Room 202 H2**](Lecture_03/)
+## [**03. DNA Polymerase part2 [Loi] - 31/01/2026; Room 202 H2**](Lecture_03/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_03/DNA%20POLYMERASE%20PART%202.pdf)
 - [Quizzes4](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_03/Quizz_4.pdf)
 
-## [**04.1 PART_I_DNA_replication_machinery [Loi] - 01/02/2026; Room 202 H2**](Lecture_04/)
+## [**04.1 DNA Replication Machinery [Loi] - 01/02/2026; Room 202 H2**](Lecture_04/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/DNA%20Replication%20Machinery.pdf)
 ## [**04.2 PCR & Gel electrophoresis [Kim] - 01/02/2026; Room 202 H2**](Lecture_04/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/Polymerase%20Chain%20Reaction%20(PCR).pdf)
 - [Quizzes5](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/Quizz%205_DNA_replication%20machinery.pdf)
 
-## [**05.1 PART_I_DNA_replication [Loi] - 03/02/2026; Online**](Lecture_05/)
+## [**05.1 DNA Replication [Loi] - 03/02/2026; Online**](Lecture_05/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Replication_Initiation_2026Feb03.pdf)
 - [PPTX](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Replication_Initiation_2026Feb03.pptx)
-## [**05.2 PART_I_DNA_repair [Thao] - 03/02/2026; Online**](Lecture_05/)
+## [**05.2 DNA repair [Thao] - 03/02/2026; Online**](Lecture_05/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Repair_03Feb.pdf)
+#
+# Part II: Transcription
+## [**06 Prokaryote and Eukaryote Transcription [Thao] - 07/02/2026; Online**](Lecture_06/)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Repair_03Feb.pdf)
+## [**07 Real Time PCR [Kim] - 08/02/2026; Online**](Lecture_07/)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Repair_03Feb.pdf)
+#
+# Part III: Translation
 
