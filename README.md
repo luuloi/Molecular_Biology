@@ -34,4 +34,5 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Replication_Initiation_2026Feb03.pdf)
 - [PPTX](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Replication_Initiation_2026Feb03.pptx)
 ## [**05.2 PART_I_DNA_repair [Thao] - 03/02/2026; Online**](Lecture_05/)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Repair_03Feb.pdf)
 
