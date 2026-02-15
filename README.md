@@ -41,11 +41,11 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 ## [**06 Prokaryote and Eukaryote Transcription [Thao] - 07/02/2026; Online**](Lecture_06/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_06/Lecture_DNA_Repair_03Feb.pdf)
 ## [**07 Nested PCR, Multiplex PCR and Gap PCR [Kim] - 08/02/2026; Online**](Lecture_07/)
-- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Lecture_DNA_Repair_03Feb.pdf)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Nested_Multiplex_Gap_PCR.pdf)
 ## [**08 Restriction Enzyme and CRISPR's Cas 9 [Kim] - 08/02/2026; Online**](Lecture_08/)
-- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Lecture_DNA_Repair_03Feb.pdf)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Enzyme_Restriction_CRISPER_CAS9.pdf)
 ## [**09 Real Time PCR for quantification [Kim] - 08/02/2026; Online**](Lecture_09/)
-- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_09/Lecture_DNA_Repair_03Feb.pdf)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Real%20time%20PCR.pdf)
 #
 # Part III: Translation
 
