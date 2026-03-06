@@ -40,12 +40,19 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 # Part II: Transcription
 ## [**06 Prokaryote and Eukaryote Transcription [Thao] - 07/02/2026; Online**](Lecture_06/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_06/Lecture_DNA_Repair_03Feb.pdf)
-## [**07 Nested PCR, Multiplex PCR and Gap PCR [Kim] - 08/02/2026; Online**](Lecture_07/)
+## [**07.1 Nested PCR, Multiplex PCR and Gap PCR [Kim] - 08/02/2026; Online**](Lecture_07/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Nested_Multiplex_Gap_PCR.pdf)
-## [**08 Restriction Enzyme and CRISPR's Cas 9 [Kim] - 08/02/2026; Online**](Lecture_08/)
+## [**07.2 Restriction Enzyme and CRISPR's Cas 9 [Kim] - 08/02/2026; Online**](Lecture_07/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Enzyme_Restriction_CRISPER_CAS9.pdf)
-## [**09 Real Time PCR for quantification [Kim] - 08/02/2026; Online**](Lecture_09/)
+## [**07.3 Real Time PCR for quantification [Kim] - 08/02/2026; Online**](Lecture_07/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Real%20time%20PCR.pdf)
-#
+- [Quizzes7](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Quession_7.pdf)
+## [**08.1 Overview Real Time PCR for quantification [Kim] - 03/03/2026; Online**](Lecture_08/)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/qPCR_Principles_and_Analysis_Overview.pdf)
+## [**08.2 Southern Blot [Kim] - 03/03/2026; Online**](Lecture_08/)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Southern_Blotting_Guide.pdf)
+## [**08.3 Northern Blot [Kim] - 03/03/2026; Online**](Lecture_08/)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Northern_Blotting_Essentials.pdf)
+- [Quizzes8](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Question%208.pdf)
 # Part III: Translation
 
