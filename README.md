@@ -57,3 +57,4 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 
 # Part III: Translation
 # Reference
+[Animation of Protein Synthesis (Translation) in Prokaryotes](https://www.youtube.com/watch?v=KZBljAM6B1s)
