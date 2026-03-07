@@ -53,6 +53,9 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Southern_Blotting_Guide.pdf)
 ## [**08.3 Northern Blot [Kim] - 03/03/2026; Online**](Lecture_08/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Northern_Blotting_Essentials.pdf)
+
+# Reference
+
 - [Quizzes8](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Question%208.pdf)
 # Part III: Translation
 
