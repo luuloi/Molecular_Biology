@@ -56,5 +56,16 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 - [Quizzes8](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Question%208.pdf)
 
 # Part III: Translation
+
+## [**10.1 Western Blot [Kim] - 08/03/2026; Room 202 H2**]](Lecture_10/)
+-[PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_10/Western_Blotting_Presenting.pdf)
+## [**10.2 ELISA [Kim] - 08/03/2026; Room 202 H2**]](Lecture_10/)
+-[PDF]()
+
+
 # Reference
 [Animation of Protein Synthesis (Translation) in Prokaryotes](https://www.youtube.com/watch?v=KZBljAM6B1s)
+[Western blot protocol video](https://youtu.be/CEEekahiqMo?si=l15xFYNVYtBUDlRk)
+[Quick Tips: How to Set Up a Trans-Blot SD Semi Dry Transfer Cell for Western BlottinG](https://youtu.be/0rMdsrgOzJU?si=TXX8CQE4yhikJLcp)
+[Western Blot Gel preparation | Biology Tutorial](https://youtu.be/pUqAhxC2sQk?si=vBD64l42S9hDGCuo)
+[ELISA | How to do ELISA | step by step procedure for ELISA](https://youtu.be/05f8A1ucfSI?si=cyqzAo8HGEP_V8ID)
