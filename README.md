@@ -57,10 +57,10 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 
 # Part III: Translation
 
-## [**10.1 Western Blot [Kim] - 08/03/2026; Room 202 H2**]](Lecture_10/)
--[PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_10/Western_Blotting_Presenting.pdf)
-## [**10.2 ELISA [Kim] - 08/03/2026; Room 202 H2**]](Lecture_10/)
--[PDF]()
+## [**10.1 Western Blot [Kim] - 08/03/2026; Room 202 H2**](Lecture_10/)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_10/Western_Blotting_Presenting.pdf)
+## [**10.2 ELISA [Kim] - 08/03/2026; Room 202 H2**](Lecture_10/)
+- [PDF]()
 
 
 # Reference
