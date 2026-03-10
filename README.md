@@ -65,7 +65,11 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 
 # Reference
 [Animation of Protein Synthesis (Translation) in Prokaryotes](https://www.youtube.com/watch?v=KZBljAM6B1s)
+
 [Western blot protocol video](https://youtu.be/CEEekahiqMo?si=l15xFYNVYtBUDlRk)
+
 [Quick Tips: How to Set Up a Trans-Blot SD Semi Dry Transfer Cell for Western BlottinG](https://youtu.be/0rMdsrgOzJU?si=TXX8CQE4yhikJLcp)
+
 [Western Blot Gel preparation | Biology Tutorial](https://youtu.be/pUqAhxC2sQk?si=vBD64l42S9hDGCuo)
+
 [ELISA | How to do ELISA | step by step procedure for ELISA](https://youtu.be/05f8A1ucfSI?si=cyqzAo8HGEP_V8ID)
