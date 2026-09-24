@@ -1,7 +1,7 @@
 # Molecular Biology
 Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại Học Đồng Tháp
 - Giảng viên: TS. Lưu Phúc Lợi
-- Trợ giảng: ThS. Cao Phương Thảo và KS. Văn Hồ Hoàng Kim
+- Trợ giảng: CN. Phạm Hiếu Đan và CN. Hoàng Như Quỳnh 
 
 ## [**00. Introduction to Molecular Biology [Loi] - 25/01/2026; Room 102 H2**](Lecture_00/)
 - [PDF](Lecture_00/Lecture_overview_2026Jan25.pdf)
@@ -10,7 +10,7 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 - [BOOK3](Book/Molecular_Biology_of_the_cell_6ed_3.pdf)
 - [BOOK4](Book/Molecular_Biology_of_the_cell_6ed_4.pdf)
   
-## [**01. Cell [Thảo, Kim] - 25/01/2026; Room 102 H2**](Lecture_01/)
+## [**01. Cell [Loi] - 25/01/2026; Room 102 H2**](Lecture_01/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_00/Introduction%20to%20Cell.pdf)
 - [Quizzes1](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_00/Quizz%201_%20Part%200_%20Prokaryotic%20vs.%20Eukaryotic%20Cells.pdf)
 - [Quizzes2](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_00/Quizz%202_%20Part%200_%20Prokaryotic%20vs.%20Eukaryotic%20Cells.pdf)
@@ -25,41 +25,44 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_03/DNA%20POLYMERASE%20PART%202.pdf)
 - [Quizzes4](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_03/Quizz_4.pdf)
 
-## [**04.1 DNA Replication Machinery [Loi] - 01/02/2026; Room 202 H2**](Lecture_04/)
+## [**04.1 DNA Replication Machinery [Quynh] - 01/02/2026; Room 202 H2**](Lecture_04/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/DNA%20Replication%20Machinery.pdf)
-## [**04.2 PCR & Gel electrophoresis [Kim] - 01/02/2026; Room 202 H2**](Lecture_04/)
+## [**04.2 PCR & Gel electrophoresis [Quynh] - 01/02/2026; Room 202 H2**](Lecture_04/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/Polymerase%20Chain%20Reaction%20(PCR).pdf)
 - [Quizzes5](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/Quizz%205_DNA_replication%20machinery.pdf)
 
 ## [**05.1 DNA Replication [Loi] - 03/02/2026; Online**](Lecture_05/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Replication_Initiation_2026Feb03.pdf)
 - [PPTX](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Replication_Initiation_2026Feb03.pptx)
-## [**05.2 DNA repair [Thao] - 03/02/2026; Online**](Lecture_05/)
+## [**05.2 DNA repair [Quynh] - 03/02/2026; Online**](Lecture_05/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Repair_03Feb.pdf)
 #
 # Part II: Transcription
-## [**06 Prokaryote and Eukaryote Transcription [Thao] - 07/02/2026; Online**](Lecture_06/)
+## [**06 Prokaryote and Eukaryote Transcription [Quynh] - 07/02/2026; Online**](Lecture_06/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_06/Lecture_DNA_Repair_03Feb.pdf)
-## [**07.1 Nested PCR, Multiplex PCR and Gap PCR [Kim] - 08/02/2026; Online**](Lecture_07/)
+## [**07.1 Nested PCR, Multiplex PCR and Gap PCR [Quynh] - 08/02/2026; Online**](Lecture_07/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Nested_Multiplex_Gap_PCR.pdf)
-## [**07.2 Restriction Enzyme and CRISPR's Cas 9 [Kim] - 08/02/2026; Online**](Lecture_07/)
+## [**07.2 Restriction Enzyme and CRISPR's Cas 9 [Quynh] - 08/02/2026; Online**](Lecture_07/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Enzyme_Restriction_CRISPER_CAS9.pdf)
-## [**07.3 Real Time PCR for quantification [Kim] - 08/02/2026; Online**](Lecture_07/)
+## [**07.3 Real Time PCR for quantification [Loi] - 08/02/2026; Online**](Lecture_07/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Real%20time%20PCR.pdf)
 - [Quizzes7](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Quession_7.pdf)
-## [**08.1 Overview Real Time PCR for quantification [Kim] - 03/03/2026; Online**](Lecture_08/)
+## [**08.1 Overview Real Time PCR for quantification [Loi] - 03/03/2026; Online**](Lecture_08/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/qPCR_Principles_and_Analysis_Overview.pdf)
-## [**08.2 Southern Blot [Kim] - 03/03/2026; Online**](Lecture_08/)
+## [**08.2 Southern Blot [Loi] - 03/03/2026; Online**](Lecture_08/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Southern_Blotting_Guide.pdf)
-## [**08.3 Northern Blot [Kim] - 03/03/2026; Online**](Lecture_08/)
+## [**08.3 Northern Blot [Loi] - 03/03/2026; Online**](Lecture_08/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Northern_Blotting_Essentials.pdf)
 - [Quizzes8](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Question%208.pdf)
 
 # Part III: Translation
-
-## [**10.1 Western Blot [Kim] - 08/03/2026; Room 202 H2**](Lecture_10/)
+## [**10.0 rRNA, tRNA, Peptide and Protein [Đan] - 08/03/2026; Room 202 H2**](Lecture_10/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_10/Western_Blotting_Presenting.pdf)
-## [**10.2 ELISA [Kim] - 08/03/2026; Room 202 H2**](Lecture_10/)
+## [**10.1 Translation [Đan] - 08/03/2026; Room 202 H2**](Lecture_10/)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_10/Western_Blotting_Presenting.pdf)
+## [**10.2 Western Blot [Đan] - 08/03/2026; Room 202 H2**](Lecture_10/)
+- [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_10/Western_Blotting_Presenting.pdf)
+## [**10.3 ELISA [Đan] - 08/03/2026; Room 202 H2**](Lecture_10/)
 - [PDF]()
 
 
