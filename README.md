@@ -25,16 +25,16 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_03/DNA%20POLYMERASE%20PART%202.pdf)
 - [Quizzes4](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_03/Quizz_4.pdf)
 
-## [**04.1 DNA Replication Machinery [Quynh] - 01/02/2026; Room 202 H2**](Lecture_04/)
+## [**04.1 DNA Replication Machinery [Loi] - 01/02/2026; Room 202 H2**](Lecture_04/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/DNA%20Replication%20Machinery.pdf)
-## [**04.2 PCR & Gel electrophoresis [Quynh] - 01/02/2026; Room 202 H2**](Lecture_04/)
+## [**04.2 PCR & Gel electrophoresis [Loi] - 01/02/2026; Room 202 H2**](Lecture_04/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/Polymerase%20Chain%20Reaction%20(PCR).pdf)
 - [Quizzes5](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_04/Quizz%205_DNA_replication%20machinery.pdf)
 
 ## [**05.1 DNA Replication [Loi] - 03/02/2026; Online**](Lecture_05/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Replication_Initiation_2026Feb03.pdf)
 - [PPTX](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Replication_Initiation_2026Feb03.pptx)
-## [**05.2 DNA repair [Quynh] - 03/02/2026; Online**](Lecture_05/)
+## [**05.2 DNA repair [Loi] - 03/02/2026; Online**](Lecture_05/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_05/Lecture_DNA_Repair_03Feb.pdf)
 #
 # Part II: Transcription
