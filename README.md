@@ -40,6 +40,7 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 # Part II: Transcription
 ## [**06 Prokaryote and Eukaryote Transcription [Quynh] - 07/02/2026; Online**](Lecture_06/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_06/Lecture_DNA_Repair_03Feb.pdf)
+- [Lecture Slide_CNSH K25](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_06/[CNSH_K25]%20L6_Prokaryote%20and%20Eukaryote%20Transcription.pdf)
 ## [**07.1 Nested PCR, Multiplex PCR and Gap PCR [Quynh] - 08/02/2026; Online**](Lecture_07/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Nested_Multiplex_Gap_PCR.pdf)
 ## [**07.2 Restriction Enzyme and CRISPR's Cas 9 [Quynh] - 08/02/2026; Online**](Lecture_07/)
