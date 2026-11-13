@@ -48,6 +48,8 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 ## [**07.3 Real Time PCR for quantification [Loi] - 08/02/2026; Online**](Lecture_07/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Real%20time%20PCR.pdf)
 - [Quizzes7](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/Quession_7.pdf)
+## [**07 [CNSH K25] Realtime PCR, Nested PCR, Multiplex PCR, and Gap PCR**](Lecture_07/)
+- [Lecture Slide](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_07/[CNSH_K25]%20L7_Realtime%20PCR%2C%20Nested%20PCR%2C%20Multiplex%20PCR%2C%20and%20Gap%20PCR.pdf)
 ## [**08.1 Overview Real Time PCR for quantification [Loi] - 03/03/2026; Online**](Lecture_08/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/qPCR_Principles_and_Analysis_Overview.pdf)
 ## [**08.2 Southern Blot [Loi] - 03/03/2026; Online**](Lecture_08/)
@@ -55,6 +57,8 @@ Môn Sinh Học Phân Tử cho chuyên ngành Công Nghệ Sinh Học - Đại H
 ## [**08.3 Northern Blot [Loi] - 03/03/2026; Online**](Lecture_08/)
 - [PDF](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Northern_Blotting_Essentials.pdf)
 - [Quizzes8](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/Question%208.pdf)
+## [**08 [CNSH K25] Restriction Enzyme, CRISPR's Cas9, Southern Blot and Northern Blot**](Lecture_08/)
+- [Lecture Slide](https://github.com/luuloi/Molecular_Biology/blob/main/Lecture_08/[CNSH_K25]%20L8_Restriction%20Enzymes%2C%20CRISPR's%20Cas9%2C%20Southern%20Blot%2C%20and%20Northern%20Blot.pdf)
 
 # Part III: Translation
 ## [**10.0 rRNA, tRNA, Peptide and Protein [Đan] - 08/03/2026; Room 202 H2**](Lecture_10/)
